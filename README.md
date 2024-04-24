@@ -112,7 +112,7 @@ Use these files to complete the implementation:
 <div style="background-color: #6d396b; width: 150px; padding: 10px; color: white">Hex: #6d396b</div>
 <div style="background-color: #555555; width: 150px; padding: 10px; color: white">Hex: #555555</div>
 <div style="background-color: #551e53; width: 150px; padding: 10px; color: white">Hex: #551e53</div>
-<div style="background-color: #12022f; width: 150px; padding: 10px; color: white">Hex: #12022f</div>
+<div style="background-color: #12022f; width: 150px; padding</div>
 
 </details>
 
