@@ -109,8 +109,6 @@ Use these files to complete the implementation:
 
 <br/>
 
-<div style="background-color: #6d396b; width: 150px; padding: 10px; color: white">Hex: #6d396b</div>
-
 
 </details>
 
