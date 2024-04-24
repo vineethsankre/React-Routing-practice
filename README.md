@@ -55,26 +55,6 @@ The app must have the following functionalities
 </div>
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/App.js`
-- `src/components/App.css`
-- `src/components/Header/index.js`
-- `src/components/Header/index.css`
-- `src/components/Home/index.js`
-- `src/components/Home/index.css`
-- `src/components/About/index.js`
-- `src/components/About/index.css`
-- `src/components/Contact/index.js`
-- `src/components/Contact/index.css`
-- `src/components/NotFound/index.js`
-- `src/components/NotFound/index.css`
-</details>
-
 ### Important Note
 
 <details>
