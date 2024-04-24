@@ -42,18 +42,6 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Components Structure</summary>
-
-<br/>
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/routing-practice-home-about-component-breakdown-structure.png" alt="" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
-<br/>
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/routing-practice-contact-not-found-component-breakdown-structure.png" alt="" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
-</details>
 
 ### Important Note
 
