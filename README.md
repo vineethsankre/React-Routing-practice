@@ -119,7 +119,6 @@ Use these files to complete the implementation:
 <details>
 <summary>Font-families</summary>
 
-- Roboto
 
 </details>
 
